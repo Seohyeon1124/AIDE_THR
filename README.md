@@ -1,1 +1,3 @@
-HI, I'm Seohyeon
+HI, I'm Seohyeon.  
+I love music.  
+HypeBoy
